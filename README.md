@@ -1,7 +1,3 @@
-# VigilAI — Health Risk Prediction App
-
-A single-page, client-side web app (login/register + a mock health-risk predictor with history and Chart.js trend analysis). No backend — everything is stored in the browser's `localStorage`.
-
 ## Project structure
 
 ```
